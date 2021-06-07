@@ -1,2 +1,2 @@
 # Mythical World
-A game based on Percy Jason and Greek Myth.
+A game based on Percy Jackson and Greek Myth.

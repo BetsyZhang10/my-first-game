@@ -1,1 +1,1 @@
-# Camp Myth
+# A future game. What shall the name be? Hmm.

@@ -1,4 +1,4 @@
-# A list of characters by type & category along with their description that shows up in this series.
+# Characters in Series One
 ### Table of Contents
 #### By Rank
 [Mains](https://github.com/BetsyZhang10/my-first-game/blob/main/game/series/series-one/characters.md#main)  

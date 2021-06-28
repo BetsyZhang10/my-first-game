@@ -1,5 +1,8 @@
-# A list of characters along with their description that shows up in this series.
+# A list of characters by rank & category along with their description that shows up in this series.
 ##### Table of Contents
-[Dieties]
-[Demigods]
-[Special-sight Mortals]
+[Mains]  
+[Subs]  
+  
+[Olympians]  
+[Demigods]  
+[Special-sight Mortals]  

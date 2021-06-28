@@ -8,15 +8,15 @@
 [Demigods]  
 [Special-sight Mortals]  
 [Regular Mortals]
-#### By Rank
+## By Rank
 ---
-## Main
+### Main
 
-## Sub
-#### By Type
+### Sub
+## By Type
 ---
-## Olympians
+### Olympians
 
-## Special-sight Mortals
+### Special-sight Mortals
 
-## Regular Mortals
+### Regular Mortals

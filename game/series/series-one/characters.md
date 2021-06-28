@@ -9,12 +9,10 @@
 [Special-sight Mortals]  
 [Regular Mortals]
 ## By Rank
----
 ### Main
 
 ### Sub
 ## By Type
----
 ### Olympians
 
 ### Special-sight Mortals

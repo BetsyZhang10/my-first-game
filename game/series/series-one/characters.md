@@ -1,19 +1,21 @@
 # A list of characters by type & category along with their description that shows up in this series.
 ### Table of Contents
 #### By Rank
-[Mains]  
-[Subs]  
+[Mains](https://github.com/BetsyZhang10/my-first-game/blob/main/game/series/series-one/characters.md#main)  
+[Subs](https://github.com/BetsyZhang10/my-first-game/blob/main/game/series/series-one/characters.md#sub)  
 #### By Type
-[Olympians]  
-[Demigods]  
-[Special-sight Mortals]  
-[Regular Mortals]
+[Olympians](https://github.com/BetsyZhang10/my-first-game/blob/main/game/series/series-one/characters.md#olympians)    
+[Demigods](https://github.com/BetsyZhang10/my-first-game/blob/main/game/series/series-one/characters.md#demigods)  
+[Special-sight Mortals](https://github.com/BetsyZhang10/my-first-game/blob/main/game/series/series-one/characters.md#special-sight-mortals)  
+[Regular Mortals](https://github.com/BetsyZhang10/my-first-game/blob/main/game/series/series-one/characters.md#regular-mortals)  
 ## By Rank
 ### Main
 
 ### Sub
 ## By Type
 ### Olympians
+
+### Demigods
 
 ### Special-sight Mortals
 

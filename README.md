@@ -7,6 +7,9 @@ A few notes:
 
 **Development paused until October/November- check back later!**  
 
+## Check out the Discussions panel to ask questions, share ideas, etc.
+https://github.com/BetsyZhang10/my-first-game/discussions  
+
 ## Rules of Contribution
 _Please follow these rules if you plan to contribute._  
 - Content must be original and based on greek mythology

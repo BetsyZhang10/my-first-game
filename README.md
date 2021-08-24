@@ -7,6 +7,13 @@ A few notes:
 
 **Development paused until October/November- check back later!**  
 
+## Rules of Contribution
+_Please follow these rules if you plan to contribute._  
+- Content must be original and based on greek mythology
+- You must comment if it's fan content, mythology, self-created, inspired, etc.
+**- You must agree to privacy policy (coming soon)
+**
+
 ## How To Contribute
 __As simple as 🔢__  
 1. Select the file you want to edit
